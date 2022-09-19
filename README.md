@@ -1,2 +1,2 @@
 # imessage-cli
-See the corresponding blog post at johnlarkin1.github.io for more information!
+See the corresponding blog post at https://johnlarkin1.github.io/2022/message-parser/ for more information!
