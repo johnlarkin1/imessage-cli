@@ -4,3 +4,10 @@ dist/
 lib/
 .DS_Store
 pyvenv.cfg
+src/bin/
+src/build/
+src/dist/
+src/lib/
+*.egg-info
+src/messages/output
+src/messages/__pycache__
